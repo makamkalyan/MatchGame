@@ -1,0 +1,15 @@
+.GameOver_container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-position: start;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Play_again_btn {
+  background-color: red;
+}
+.trophy {
+  height: 180px;
+}
